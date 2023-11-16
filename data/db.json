@@ -23,12 +23,7 @@
       "price": "2000",
       "checked": true,
       "id": 4
-    },
-    {
-      "name": "me",
-      "price": "10",
-      "checked": false,
-      "id": 5
     }
+
   ]
 }
